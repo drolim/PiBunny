@@ -27,7 +27,7 @@ Boot the pi, Expand the fs ext... Then do this
 
 ```
 sudo su
-apt install git
+apt install git npm
 cd /
 git clone https://github.com/tholum/PiBunny.git scripts
 cd /scripts
